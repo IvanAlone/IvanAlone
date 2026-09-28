@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanAlone
+- 👋 Hi, I’m @Ivan Matanda
 - 👀 I’m interested in software development machine leraning and cybersecurity
 - 🌱 I’m currently learning python html css and javascript
 - 💞️ I’m looking to collaborate on any projects and tasks available for me to grow my skills
